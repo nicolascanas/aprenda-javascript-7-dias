@@ -1,0 +1,11 @@
+let firstName = 'Nicolas';
+let lastName = 'Cañas';
+
+console.log(firstName);
+console.log(lastName);
+
+let FirstName = 'Jacqueline';
+
+console.log(FirstName);
+
+// case-sensitive significa que ele diferencia letras maiúsculas de minúsculas, tratando FirstName e firstName como duas variáveis completamente diferentes.
