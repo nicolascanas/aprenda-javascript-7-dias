@@ -1,0 +1,5 @@
+let friends = ['Nicolas', 'Jacqueline', 'Evandro'] // 0, 1, 2
+
+friends[2] = 'João'
+
+console.log(friends)
