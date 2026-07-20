@@ -1,9 +1,9 @@
-let itemName = 'Pen'; // String
+let itemName = 'Pen' // String
 
-let itemPrice = 3; // Number
+let itemPrice = 3 // Number
 
-let itemAvailable = true; // Boolean 
+let itemAvailable = true // Boolean 
 
-let itemColor; // Undefined
+let itemColor // Undefined
 
 itemName = null // Null 
