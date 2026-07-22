@@ -1,0 +1,13 @@
+let temIdadeMinima = true
+let temTituloEleitor = true
+
+let podevotar = temIdadeMinima && temTituloEleitor
+console.log(podevotar)
+
+let podeviajar = !podevotar
+console.log(podeviajar)
+
+
+// && Significa que tudo precisa ser verdade.
+// || Significa que basta uma coisa ser verdade.
+// ! Significa o contrario de tudo.
