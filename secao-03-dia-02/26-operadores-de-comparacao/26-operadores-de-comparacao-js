@@ -1,0 +1,11 @@
+let num1 = 4
+
+console.log(num1 > 1) // maior que
+console.log(num1 < 2) // menor que
+
+console.log(num1 >= 3) // maior ou igual
+console.log(num1 <= 4) // menor ou igual
+
+console.log(num1 === 3) // Ele verifica se dois valores são idênticos em valor e tipo de dado, sem realizar conversões automáticas (coerção).
+console.log(num1 !== 3) // Ele serve para verificar se dois valores ou seus tipos de dados são diferentes.
+
