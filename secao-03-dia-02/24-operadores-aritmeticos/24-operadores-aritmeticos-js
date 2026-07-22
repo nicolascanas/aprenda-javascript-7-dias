@@ -1,0 +1,18 @@
+
+let num1 = 3
+let num2 = 2
+
+console.log(num1 + num2) // Soma
+console.log(num1 - num2) // Subtração
+console.log(num1 * num2) // Multiplicação
+console.log(num1 / num2) // Divisão
+console.log(num1 % num2) // Resto da divisão
+console.log(num1 ** num2) // Exponenciação (potência)
+
+let total = num1 + num2
+
+console.log(++total) // Incremento (soma +1)
+console.log(--total) // Decremento (subtrai -1)
+
+// (++ total) Altera o valor antes de usar a variável na instrução atual.
+// (total++) Usa o valor atual na instrução e só altera depois.
