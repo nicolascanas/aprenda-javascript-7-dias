@@ -1,0 +1,5 @@
+let num1 = '1'
+let num2 = 1
+
+console.log(num1 === num2) // compara o valor e o tipo, exigindo que ambos sejam idênticos sem fazer conversão.
+console.log(num1 == num2) // compara apenas os valores, convertendo os tipos de dados automaticamente se forem diferentes.
